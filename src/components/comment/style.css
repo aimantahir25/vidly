@@ -1,0 +1,14 @@
+.comment {
+  margin: 1rem 0;
+  width: 100%;
+  font-size: 1rem;
+}
+.comment__user {
+  background-color: grey;
+  border-radius: 2px;
+  color: #fff;
+  font-weight: 500;
+  font-size: 1.2rem;
+  padding: 2px 6px;
+  margin-right: 1rem;
+}
